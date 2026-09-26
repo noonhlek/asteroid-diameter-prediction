@@ -241,7 +241,4 @@ This project demonstrates practical experience with:
 **Nonhle Mnqayi**
 
 ICT Graduate | Cybersecurity Honours Student
-
-GitHub: `YOUR-GITHUB-USERNAME`
-
 LinkedIn: `https://www.linkedin.com/in/nonhle-okuhle-973581274/`
